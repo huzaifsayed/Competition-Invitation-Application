@@ -1,0 +1,10 @@
+Requirements - 
+Python
+virtualenv
+Django
+
+I am running this project in virtualenv
+
+Command to Install all Requirements ---- >>>> pip install -r requirements.txt
+
+command to runserver - python manage.py runserver
