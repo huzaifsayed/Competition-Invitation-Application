@@ -3,6 +3,8 @@ Python
 virtualenv
 Django
 
+For Simplification we have used SQLite 3 Database - But we can use any just changing few line of code
+
 I am running this project in virtualenv
 
 Command to Install all Requirements ---- >>>> pip install -r requirements.txt
